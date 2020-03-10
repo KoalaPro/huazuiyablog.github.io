@@ -1,6 +1,7 @@
 {
 	"越狱插件推荐":{
 	"SCDxC":{
+	"ios12":{
 	"越狱插件推荐第一弹":"https://mp.weixin.qq.com/s/oWoGV18TkwFTjiditjOM4Q",
 	"越狱插件推荐第二弹":"https://mp.weixin.qq.com/s/MrnuzVlAAfHw0b3TSElUlA",
 	"越狱插件推荐第三弹":"https://mp.weixin.qq.com/s/Rs5yKKmIhwjkWwxdv8njWA",
@@ -23,7 +24,9 @@
 	"越狱插件推荐第十九弹":"https://mp.weixin.qq.com/s/Cxe6fOph6exomKaVrAUE7w",
 	"越狱插件推荐第二十弹":"https://mp.weixin.qq.com/s/UEtUfsYjyR2uRfW8stONgg",
 	}
+	}
 	"艾橙互动":{
+	"ios12:{
 	"那些好玩的插件ios12（一）":"https://mp.weixin.qq.com/s/Mfv1l2ibKSFunRE8VJfeyQ",
 	"那些好玩的插件ios12（二）":"https://mp.weixin.qq.com/s/9qMxH2nXveMevTa7zijZRw",
 	"那些好玩的插件ios12（三）":"https://mp.weixin.qq.com/s/rxBl6ojMnLofeV8ShltTdA",
@@ -55,6 +58,8 @@
 	"那些好玩的插件ios12（二十九）":"https://mp.weixin.qq.com/s/AVwXIy7ByV8QxP8sGgDKOw",
 	"那些好玩的插件ios12（三十）":"https://mp.weixin.qq.com/s/BP5eBTGw593_zcYOF6lVFw",
 	"那些好玩的插件ios12（三十一）":"https://mp.weixin.qq.com/s/0s0T4JmYmW-DIwpGkTeZ4g",
+	}
+	"美化插件":{
 	"不升级iOS13，也能实现黑暗模式":"https://mp.weixin.qq.com/s/8avEjQsiH_Y-iZZusiwYeA",
 	"不升级iOS13，也能实现黑暗模式（二）":"https://mp.weixin.qq.com/s/4YpNZINkb3enemknl2Ge1w",
 	"不升级iOS13，也能实现黑暗模式（三）":"https://mp.weixin.qq.com/s/BQu90qVeBWiV77RukVbuCA",
@@ -63,18 +68,24 @@
 	"锁屏天气显示（二）":"https://mp.weixin.qq.com/s/0u_hn8a1ksO55bJv6ELlNw",
 	"锁屏天气显示（三）":"https://mp.weixin.qq.com/s/FTUddmjTt8sQayVWw0ab-w",
 	"锁屏天气显示（四）":"https://mp.weixin.qq.com/s/t0EIXT2zedq5X0wsFfOIIw",
-	"iPhone 通话录音":"https://mp.weixin.qq.com/s/s3PBb-cVMt0PpDNyFYXb7w",
 	"网速悬浮显示":"https://mp.weixin.qq.com/s/F5Gg-OAl8q1TzcwUqCFlzQ",
 	"体验iOS 13音量调节（二）":"https://mp.weixin.qq.com/s/sd_CEDovFORD_YhchBycGQ",
 	"控制中心增强（一）":"https://mp.weixin.qq.com/s/SzXTQqmNuV6-yUmU48JeLw",
 	"控制中心增强（二）":"https://mp.weixin.qq.com/s/EftauIQBu523Co6WWp_-pg",
 	"控制中心增强（三）":"https://mp.weixin.qq.com/s/6nVJypl0iId1eyovRnrRfA",
-	"iOS分屏神器":"https://mp.weixin.qq.com/s/WZsKPyvIE9ibwGQujbYebg",
+	}
+	"ios13":{
 	"那些好玩的插件ios13（一）":"https://mp.weixin.qq.com/s/jTfQo8rLhqWtcOtBI3uoPg",
 	"那些好玩的插件ios13（二）":"https://mp.weixin.qq.com/s/1xwAcH--tfc5qQ16BD1i9A",
 	"那些好玩的插件ios13（三）":"https://mp.weixin.qq.com/s/E7PIYhi3WEnPlfn4mL0awQ",
+	}
+	"其他":{
 	"屏蔽越狱检测（一）":"https://mp.weixin.qq.com/s/1yDB-SRWn5kPlJ99mAoryA",
 	"屏蔽越狱检测（二）":"https://mp.weixin.qq.com/s/GM1t6Id2-Y_5ABv-qh7N-Q",
+	"iPhone 通话录音":"https://mp.weixin.qq.com/s/s3PBb-cVMt0PpDNyFYXb7w",
+	"iOS分屏神器":"https://mp.weixin.qq.com/s/WZsKPyvIE9ibwGQujbYebg",
+	}
+	
 	}
 	
 }
