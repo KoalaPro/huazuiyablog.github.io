@@ -58,7 +58,7 @@
 	"那些好玩的插件ios12（三十）":"https://mp.weixin.qq.com/s/BP5eBTGw593_zcYOF6lVFw",
 	"那些好玩的插件ios12（三十一）":"https://mp.weixin.qq.com/s/0s0T4JmYmW-DIwpGkTeZ4g"
 	},
-	"美化插件":{
+	"美化系列":{
 	"不升级iOS13，也能实现黑暗模式":"https://mp.weixin.qq.com/s/8avEjQsiH_Y-iZZusiwYeA",
 	"不升级iOS13，也能实现黑暗模式（二）":"https://mp.weixin.qq.com/s/4YpNZINkb3enemknl2Ge1w",
 	"不升级iOS13，也能实现黑暗模式（三）":"https://mp.weixin.qq.com/s/BQu90qVeBWiV77RukVbuCA",
@@ -94,7 +94,18 @@
 		"其他":{
 			"iOS应用降级":"https://mp.weixin.qq.com/s/9ARG_wm4TR0zaX1K9f2qTw",
 			"ios13越狱适配插件":"https://mp.weixin.qq.com/s/zyKGLeizwt9430nOD7yZ2g"
-		  }				
+		}
+	},
+         "知网少年":{
+		"ios12":{
+			"这些插件你应该安装":"https://mp.weixin.qq.com/s/kYWlAF7D7DupTTt3fsZvVg",
+			"这些插件你应该安装（二）":"https://mp.weixin.qq.com/s/j3wR7IHbvjbQRBcZ9Rxezw"
+		},
+	"美化系列":{
+		"桌面篇":"https://mp.weixin.qq.com/s/8oT1mkAXv0rkh-VlOvT7Iw",
+		"系统篇":"https://mp.weixin.qq.com/s/dS3Mn3CwZ7HXqWIHzkVh6Q",
+		"Cydia篇":"https://mp.weixin.qq.com/s/QZLWWrRLONlDZsDhT9cbiA"
+	          }		  				
 	        }
 	      }
             }
