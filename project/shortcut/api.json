@@ -110,6 +110,8 @@
     },
 "AI油画": {
     "imageurl": "https://detect-face-fnk37ur3qq-an.a.run.app/api/v1/detect/",
-    "face": "https://convert-to-art-fnk37ur3qq-an.a.run.app/api/v1/convert/"
+    "face": "https://convert-to-art-fnk37ur3qq-an.a.run.app/api/v1/convert/",
+    "replace":"https://huazuiya.club/project/shortcut/replace.json"
+    
         }
      }
