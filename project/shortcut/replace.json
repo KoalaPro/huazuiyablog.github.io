@@ -9,7 +9,8 @@
     "name":"AI油画",
     "version":"1.0",
     "url":"",
-    "log":""
+    "log":"",
+    "api":"https://huazuiya.club/project/shortcut/api.json"
                  }
                 }
                  
